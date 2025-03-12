@@ -4,7 +4,7 @@ This repository contains the extension of [DreamGaussian](https://github.com/dre
 
 Anamorphic objects are a special type of 3D object that look different from different viewing angle. For example, this is an anamorphic object that looks like a cat when observed from the front, and looks like a dog when observed from the right. 
 
-![Dog_cat](./assets/dog_cat.gif)
+<img src="./assets/dog_cat.gif" alt="Demo GIF" width="200"/>
 
 ## Install
 Please refer to the install instruction of [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian).
